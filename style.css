@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #777;
+    color: black;
+    width: 960px;
+}
+
+h1 {
+    text-align: center;
+}
+
+aside {
+    float: right;
+}
+
+.container {
+    
+}
